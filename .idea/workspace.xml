@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7923c6d-48ee-426b-8872-454b33bace92" name="Changes" comment="example10">
-      <change afterPath="$PROJECT_DIR$/src/Example11.java" afterDir="false" />
+    <list default="true" id="c7923c6d-48ee-426b-8872-454b33bace92" name="Changes" comment="example14">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Example14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +163,35 @@
       <option name="project" value="LOCAL" />
       <updated>1665408999584</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="example11">
+      <created>1665409125090</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665409125090</updated>
+    </task>
+    <task id="LOCAL-00012" summary="example12">
+      <created>1665409219388</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1665409219388</updated>
+    </task>
+    <task id="LOCAL-00013" summary="example13">
+      <created>1665409300334</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665409300334</updated>
+    </task>
+    <task id="LOCAL-00014" summary="example14">
+      <created>1665409376555</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665409376555</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +216,21 @@
     <MESSAGE value="example8" />
     <MESSAGE value="example9" />
     <MESSAGE value="example10" />
-    <option name="LAST_COMMIT_MESSAGE" value="example10" />
+    <MESSAGE value="example11" />
+    <MESSAGE value="example12" />
+    <MESSAGE value="example13" />
+    <MESSAGE value="example14" />
+    <option name="LAST_COMMIT_MESSAGE" value="example14" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Example14.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
