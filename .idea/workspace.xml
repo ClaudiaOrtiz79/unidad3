@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7923c6d-48ee-426b-8872-454b33bace92" name="Changes" comment="Example1">
-      <change afterPath="$PROJECT_DIR$/src/Example2.java" afterDir="false" />
+    <list default="true" id="c7923c6d-48ee-426b-8872-454b33bace92" name="Changes" comment="example4">
+      <change afterPath="$PROJECT_DIR$/src/Example5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Example4">
+  <component name="RunManager" selected="Application.Example5">
     <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example1" />
       <module name="unidad3" />
@@ -64,8 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example5" />
+      <module name="unidad3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example5" />
         <item itemvalue="Application.Example4" />
         <item itemvalue="Application.Example3" />
         <item itemvalue="Application.Example2" />
@@ -89,7 +100,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665407693324</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="example2">
+      <created>1665407952700</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665407952700</updated>
+    </task>
+    <task id="LOCAL-00003" summary="example3">
+      <created>1665408145265</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665408145265</updated>
+    </task>
+    <task id="LOCAL-00004" summary="example4">
+      <created>1665408228878</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665408228878</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +137,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Example1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Example1" />
+    <MESSAGE value="example2" />
+    <MESSAGE value="example3" />
+    <MESSAGE value="example4" />
+    <option name="LAST_COMMIT_MESSAGE" value="example4" />
   </component>
 </project>
