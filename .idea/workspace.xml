@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7923c6d-48ee-426b-8872-454b33bace92" name="Changes" comment="example22">
-      <change afterPath="$PROJECT_DIR$/src/Example23.java" afterDir="false" />
+    <list default="true" id="c7923c6d-48ee-426b-8872-454b33bace92" name="Changes" comment="example23">
+      <change afterPath="$PROJECT_DIR$/src/Example24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Example24.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -37,14 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Example23">
-    <configuration name="Example19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example19" />
-      <module name="unidad3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Example24">
     <configuration name="Example20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example20" />
       <module name="unidad3" />
@@ -73,13 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example24" />
+      <module name="unidad3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example24" />
         <item itemvalue="Application.Example23" />
         <item itemvalue="Application.Example22" />
         <item itemvalue="Application.Example21" />
         <item itemvalue="Application.Example20" />
-        <item itemvalue="Application.Example19" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665497207709</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="example23">
+      <created>1665498087924</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1665498087924</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,7 +315,8 @@
     <MESSAGE value="example20" />
     <MESSAGE value="example21" />
     <MESSAGE value="example22" />
-    <option name="LAST_COMMIT_MESSAGE" value="example22" />
+    <MESSAGE value="example23" />
+    <option name="LAST_COMMIT_MESSAGE" value="example23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
