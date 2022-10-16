@@ -10,11 +10,22 @@ class Example31 {
         num = inputValue.nextInt();
 
         while (i <= num) {
-            for (int x = 1; x <= i; x++) {
-                System.out.print(x + "\t");
+            for (int y = num; y > 0; y--) {
+                if (y <= i) {
+                    System.out.print("\t"+ y);
+                } else {
+                    System.out.print(" \t/");
+                }
             }
-            i++;
+            for (int x = 2; x <= num; x++) {
+                if (x <= i) {
+                    System.out.print(" \t" + x);
+                } else {
+                    System.out.print("\t/");
+                }
+            }
             System.out.println();
+            i++;
         }
     }
 }

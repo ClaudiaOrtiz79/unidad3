@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7923c6d-48ee-426b-8872-454b33bace92" name="Changes" comment="Example32">
-      <change afterPath="$PROJECT_DIR$/src/Example31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Example25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Example25.java" afterDir="false" />
+    <list default="true" id="c7923c6d-48ee-426b-8872-454b33bace92" name="Changes" comment="Example25">
+      <change beforePath="$PROJECT_DIR$/src/Example31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Example31.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Example25">
+  <component name="RunManager" selected="Application.Example31">
     <configuration name="Example25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example25" />
       <module name="unidad3" />
@@ -82,10 +78,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example31" />
         <item itemvalue="Application.Example25" />
         <item itemvalue="Application.Example33" />
         <item itemvalue="Application.Example32" />
-        <item itemvalue="Application.Example31" />
         <item itemvalue="Application.Example30" />
       </list>
     </recent_temporary>
@@ -337,7 +333,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665859613865</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Example33">
+      <created>1665936650316</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1665936650316</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Example25">
+      <created>1665936717341</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1665936717341</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,7 +362,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="example7" />
     <MESSAGE value="example8" />
     <MESSAGE value="example9" />
     <MESSAGE value="example10" />
@@ -370,14 +379,15 @@
     <MESSAGE value="example22" />
     <MESSAGE value="example23" />
     <MESSAGE value="example24" />
-    <MESSAGE value="Example25" />
     <MESSAGE value="Example26" />
     <MESSAGE value="Example27" />
     <MESSAGE value="Example28" />
     <MESSAGE value="Example29" />
     <MESSAGE value="Example30" />
     <MESSAGE value="Example32" />
-    <option name="LAST_COMMIT_MESSAGE" value="Example32" />
+    <MESSAGE value="Example33" />
+    <MESSAGE value="Example25" />
+    <option name="LAST_COMMIT_MESSAGE" value="Example25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
